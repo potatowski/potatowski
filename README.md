@@ -8,7 +8,9 @@
   <img align="center" alt="css height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="php" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">                               
+  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
   
  ##
