@@ -3,6 +3,7 @@
 <p>Student of Systems Analysis and Development and passionate about technology.</p>
 <p>Developer Backend PHP in Orange Labs.</p>
 
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +14,7 @@
   <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
   
- ##
+ ## My Social Networks
  
 <div> 
   <a href="https://www.instagram.com/batatowski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-610095?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,7 +22,12 @@
  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lima-da-rocha-646818139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+## Github Stats and Most used languages
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+
 **potatowski/potatowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
