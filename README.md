@@ -25,7 +25,8 @@
 
 ## Github Stats and Most used languages
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=outrun)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=outrun)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=algolia" alt="Potatowski's github stats" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
