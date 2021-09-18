@@ -1,10 +1,10 @@
  ### Hi I'am Vitor Rocha 👋👨🏻‍💻
 
-<p>Student of Systems Analysis and Development and passionate about technology.</p>
-<p>Developer Backend PHP in [Orange Labs](https://orangelabs.com.br "Orange Labs").</p>
-
-<div style="display: inline_block"><br>
+<p>Student of Systems Analysis and Development and passionate about technology.
  
+Developer Backend PHP in [Orange Labs](https://orangelabs.com.br "Orange Labs").</p>
+<div style="display: inline_block"><br>
+
 ## Skills
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
