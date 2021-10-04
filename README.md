@@ -22,11 +22,15 @@ Developer Backend PHP in [Orange Labs](https://orangelabs.com.br "Orange Labs").
   <a href="https://twitter.com/potatowsk1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lima-da-rocha-646818139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
+                                                                                                                                          
 ## Github Stats and Most used languages
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=potatowski&label=Profile%20views&color=0e75b6&style=flat" alt="Vitor Rocha" /> </p>
+
 <!--
 
 **potatowski/potatowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
