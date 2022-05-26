@@ -25,10 +25,13 @@ Developer Backend PHP in [Orange Labs](https://orangelabs.com.br "Orange Labs").
                                                                                                                                           
 ## Github Stats and Most used languages
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <a href="https://github.com/potatowski">
+  <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="420"src="https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
 
-
+##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potatowski&label=Profile%20views&color=0e75b6&style=flat" alt="Vitor Rocha" /> </p>
 
 <!--
