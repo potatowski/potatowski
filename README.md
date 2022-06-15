@@ -1,51 +1,71 @@
- ### Hi I'am Vitor Rocha 👋👨🏻‍💻
+<p align="left">Hi I'am Vitor Rocha 👋👨🏻‍💻</p>
 
-<p>Student of Systems Analysis and Development and passionate about technology.
+###
+<p align="left">Student of Systems Analysis and Development and passionate about technology.
  
 Developer Backend PHP in [Orange Labs](https://orangelabs.com.br "Orange Labs").</p>
-<div style="display: inline_block"><br>
-
-## Skills
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="php" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
- ## My Social Networks
- 
-<div> 
-  <a href="https://www.instagram.com/batatowski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-610095?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/yyvtrch" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lima-da-rocha-646818139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-                                                                                                                                          
-## Github Stats and Most used languages
-
+###
 <div align="center">
- <a href="https://github.com/potatowski">
-  <img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img width="420"src="https://github-readme-stats.vercel.app/api?username=potatowski&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"  />
 </div>
 
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=potatowski&label=Profile%20views&color=0e75b6&style=flat" alt="Vitor Rocha" /> </p>
+###
+<h1 align="left">My Social Networks</h1>
 
-<!--
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lima-da-rocha-646818139/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/yyvtrch" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/batatowski/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:vitorrocha3105@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-**potatowski/potatowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+<h1 align="left">Skills</h1>
 
-Here are some ideas to get you started:
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<h2 align="left">Github Stats and Most used languages</h2>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&username=potatowski" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=potatowski" height="150" alt="languages graph"  />
+</div>
+
+###
+<h2 align="left">You are my visitor number:</h2>
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/potatowski/count.svg?"  />
+</div>
+
+###
+<h2 align="left">Last songs heard</h2>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/226s6zj7rjxugkeedalkcihuy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=226s6zj7rjxugkeedalkcihuy&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
