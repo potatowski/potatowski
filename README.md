@@ -20,7 +20,7 @@ Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs").
   <a href="https://twitter.com/yyvtrch" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/batatowski/" target="_blank">
+  <a href="https://www.instagram.com/potatowski/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:vitorrocha3105@gmail.com" target="_blank">
