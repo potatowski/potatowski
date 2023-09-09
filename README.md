@@ -72,5 +72,5 @@ Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs").
 <h2 align="left">My contributions in the last year</h2>
 
 <div align="center">
-  <img src="https://github.com/potatowski/potatowski/blob/output/github-contribution-grid-snake.svg" alt="Contributions in the last year"/>
+  <img src="https://raw.githubusercontent.com/potatowski/potatowski/output/snake.svg" alt="My contributions in the last year" />
 </div>
