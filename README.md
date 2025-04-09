@@ -48,7 +48,7 @@ I’m always open to new challenges, striving to grow both professionally and pe
 </div>
 
 <br>
-###
+
 ---
 
 <img align="right" src="https://imgix.bustle.com/inverse/30/0c/58/49/b8cf/4e80/8087/8e760f22a054/screen-shot-2017-01-24-at-33359-pmpng.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg" width="150" alt="harold-winston" />
