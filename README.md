@@ -1,76 +1,67 @@
-<p align="left">Hi I'am Vitor Rocha 👋👨🏻‍💻</p>
-
-###
-<p align="left">Student of Systems Analysis and Development and passionate about technology.
- 
-Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs").</p>
-###
 <div align="center">
-  <img height="200" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI2bmgzbHZ1a2VrdnYzeHNhb3hzdGZzYjJkbnNkaGJ1ZHo4aHYxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8TzelADdK7md7YaKl/giphy.gif" width="100" alt="hello" />
 </div>
 
-###
-<h1 align="left">My Social Networks</h1>
+<h1 align="center"> 👩‍💻 Welcome to my Github! </h1> 
+<p align="center"><i>Backend Developer | Systems Analysis and Development </i></p>
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/vitorrch/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+---
+
+## 🌟 About me
+
+<img align="right" alt="cat-coding-gif" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="240" />
+
+I’m a technology enthusiast, passionate about continuous learning and turning ideas into real solutions. I’m currently pursuing a degree in Systems Analysis and Development and applying my knowledge to projects that combine theory, practice, and purpose.
+
+Since 2021, I’ve been working in software development with a focus on writing clean, high-performance, and maintainable code. I’m constantly seeking new concepts and best practices that can add value to the projects I’m involved in.
+
+🧠 Interpersonal skills:
+- Strong communication
+- Creative problem-solving
+- Ability to work under pressure
+- Leadership
+- Team collaboration
+
+I’m always open to new challenges, striving to grow both professionally and personally, while connecting with amazing people along the way. 🚀🤝
+
+<div align="center">
+  <a href="https://vitorrch.tech/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
-  <a href="mailto:vitorrocha3105@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  <a href="mailto:vitorrocha3105@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/vitorrch/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-</div>
-
-###
-<h1 align="left">Skills</h1>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="52" alt="github logo"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40" width="52" alt="docker logo"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="40" width="52" alt="go lang logo"/>
-</div>
-
-###
-<h2 align="left">Github Stats and Most used languages</h2>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potatowski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=potatowski" height="150" alt="languages graph"/>
-</div>
-
-###
-<h2 align="left">You are my visitor number:</h2>
-
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/potatowski/count.svg?"  />
-</div>
-
-###
-<h2 align="left">Last songs heard</h2>
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/226s6zj7rjxugkeedalkcihuy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=226s6zj7rjxugkeedalkcihuy&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://wa.me/5595991114847">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
-###
-<h2 align="left">My contributions in the last year</h2>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/potatowski/potatowski/output/github-contribution-grid-snake-dark.svg" alt="My contributions in the last year" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&langs_count=20&theme=tokyonight" alt="GitHub Most Usage Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=potatowski&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/potatowski/potatowski/output/github-contribution-grid-snake-dark.svg" alt="snake-contributions-last-year" />
 </div>
+
+<br>
+###
+---
+
+<img align="right" src="https://imgix.bustle.com/inverse/30/0c/58/49/b8cf/4e80/8087/8e760f22a054/screen-shot-2017-01-24-at-33359-pmpng.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg" width="150" alt="harold-winston" />
+
+> _"Nunca aceite o mundo como ele parece ser, ouse vê-lo como ele poderia ser."_ 🧡  
+> — **Dr. Harold Winston (Overwatch)**
+<br>
+
+---
+
+<div align="center">
+ <p><i>Thanks for visit ❤️</i></p>
+ <p><i>You are my visitor number</i></p>
+ <img src="https://profile-counter.glitch.me/potatowski/count.svg?"  /> 
+</div>
+<br>
