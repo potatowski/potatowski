@@ -25,16 +25,16 @@ Since 2021, I’ve been working in software development with a focus on writing 
 I’m always open to new challenges, striving to grow both professionally and personally, while connecting with amazing people along the way. 🚀🤝
 
 <div align="center">
-  <a href="https://vitorrch.tech/">
+  <a href="https://vitorrch.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
   <a href="mailto:vitorrocha3105@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
-  <a href="https://www.linkedin.com/in/vitorrch/">
+  <a href="https://www.linkedin.com/in/vitorrch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://wa.me/5595991114847">
+  <a href="https://wa.me/5595991114847" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
@@ -43,7 +43,7 @@ I’m always open to new challenges, striving to grow both professionally and pe
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&langs_count=20&theme=tokyonight" alt="GitHub Most Usage Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=potatowski&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potatowski&layout=compact&langs_count=20&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://raw.githubusercontent.com/potatowski/potatowski/output/github-contribution-grid-snake-dark.svg" alt="snake-contributions-last-year" />
 </div>
 
@@ -53,7 +53,8 @@ I’m always open to new challenges, striving to grow both professionally and pe
 
 <img align="right" src="https://imgix.bustle.com/inverse/30/0c/58/49/b8cf/4e80/8087/8e760f22a054/screen-shot-2017-01-24-at-33359-pmpng.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg" width="150" alt="harold-winston" />
 
-> _"Nunca aceite o mundo como ele parece ser, ouse vê-lo como ele poderia ser."_ 🧡  
+> _"Nunca aceite o mundo como ele parece ser, ouse vê-lo como ele poderia ser."_ 🧡
+> 
 > — **Dr. Harold Winston (Overwatch)**
 <br>
 
