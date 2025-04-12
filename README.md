@@ -9,7 +9,7 @@
 
 ## 🌟 About me
 
-<img align="right" alt="cat-coding-gif" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="240" />
+<img align="right" alt="cat-coding-gif" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="120" />
 
 I’m a technology enthusiast, passionate about continuous learning and turning ideas into real solutions. I’m currently pursuing a degree in Systems Analysis and Development and applying my knowledge to projects that combine theory, practice, and purpose.
 
@@ -53,7 +53,7 @@ I’m always open to new challenges, striving to grow both professionally and pe
 
 <img align="right" src="https://imgix.bustle.com/inverse/30/0c/58/49/b8cf/4e80/8087/8e760f22a054/screen-shot-2017-01-24-at-33359-pmpng.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg" width="150" alt="harold-winston" />
 
-> _"Nunca aceite o mundo como ele parece ser, ouse vê-lo como ele poderia ser."_ 🧡
+> _"Never accept the world as it appears to be, dare to see it for what it could be."_ 🧡
 > 
 > — **Dr. Harold Winston (Overwatch)**
 <br>
