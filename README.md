@@ -42,8 +42,8 @@ I’m always open to new challenges, striving to grow both professionally and pe
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatowski&layout=compact&langs_count=20&theme=tokyonight" alt="GitHub Most Usage Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=potatowski&layout=compact&langs_count=20&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=potatowski&layout=compact&theme=tokyonight" alt="GitHub Most Usage Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=potatowski&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://raw.githubusercontent.com/potatowski/potatowski/output/github-contribution-grid-snake-dark.svg" alt="snake-contributions-last-year" />
 </div>
 
@@ -62,7 +62,5 @@ I’m always open to new challenges, striving to grow both professionally and pe
 
 <div align="center">
  <p><i>Thanks for visit ❤️</i></p>
- <p><i>You are my visitor number</i></p>
- <img src="https://profile-counter.glitch.me/potatowski/count.svg?"  /> 
 </div>
 <br>
